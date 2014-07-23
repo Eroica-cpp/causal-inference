@@ -23,6 +23,11 @@ Main Methods
 3. Propensity score matching
 	
 
+To-do List
+------------
+- [ ] sensitivity analysis
+- [ ] pattern specification
+
 Questions
 ------------
 to be done...
